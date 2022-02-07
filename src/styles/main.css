@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Comfortaa|Patua+One");
+@import url("https://fonts.googleapis.com/css?family=Comfortaa%7CPatua+One");
 
 /*Typography
 --------------------------------------------------------------*/
@@ -34,3 +34,25 @@ h1,h2,h3,h4,h5,h6 {
     background-color: darksalmon;
 }
 
+.messages {
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.plants {
+    
+    flex-basis: 10%;
+    padding:3rem
+    
+}
+
+.container {
+    display: flex;
+}
+
+article {
+    display:flex;
+    flex-wrap: wrap;
+    
+}

@@ -8,4 +8,4 @@ export const addPlant = (seed) => {
     else {field.push(seed)}
 }
 
-export const usePlant = () => {return field}
+export const usePlants = () => {return field}
